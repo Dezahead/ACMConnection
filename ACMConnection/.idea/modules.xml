@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ACMConnection.iml" filepath="$PROJECT_DIR$/ACMConnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pull-to-refresh/pull-to-refresh.iml" filepath="$PROJECT_DIR$/pull-to-refresh/pull-to-refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickblox-android-sdk-chat-2.2.1/quickblox-android-sdk-chat-2.2.1.iml" filepath="$PROJECT_DIR$/quickblox-android-sdk-chat-2.2.1/quickblox-android-sdk-chat-2.2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickblox-android-sdk-core-2.2.1/quickblox-android-sdk-core-2.2.1.iml" filepath="$PROJECT_DIR$/quickblox-android-sdk-core-2.2.1/quickblox-android-sdk-core-2.2.1.iml" />
+    </modules>
+  </component>
+</project>
